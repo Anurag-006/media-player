@@ -1,0 +1,11 @@
+{
+  "name": "mediaplayer",
+  "version": "1.0.0",
+  "description": "media player project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anurag",
+  "license": "ISC"
+}
